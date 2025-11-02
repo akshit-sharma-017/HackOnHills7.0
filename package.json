@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^5.1.1",
+    "@web3-storage/w3up-client": "^17.3.0"
+  }
+}

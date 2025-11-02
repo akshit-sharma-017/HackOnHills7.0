@@ -1,0 +1,15 @@
+[package]
+name = "document_vault"
+version = "1.0.0"
+authors = []
+
+[addresses]
+vault = "0x44e19c63aad50f2dfa3da9e9bb1bf05b1f94bd4a522d166309a432d4de6cd3c8"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
